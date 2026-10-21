@@ -1,0 +1,23 @@
+# secrets: never commit these
+.env
+.env.local
+.env.*.local
+
+# dependencies / build output
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# backend runtime data
+data/
+yolov8n.pt
+*.old
+
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
