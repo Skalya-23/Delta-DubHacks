@@ -1,0 +1,4 @@
+# Who reviews what. https://docs.github.com/articles/about-code-owners
+/frontend/  @Skalya-23
+/backend/   @Aditya9246
+/supabase/  @Skalya-23 @Aditya9246
